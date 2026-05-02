@@ -1,0 +1,14 @@
+[
+  {
+    "id": "org_1",
+    "name": "Ethu Health Clubs",
+    "type": "Franchise Owner",
+    "region": "West Midlands"
+  },
+  {
+    "id": "org_2",
+    "name": "Active Futures Trust",
+    "type": "Partner Organisation",
+    "region": "Greater London"
+  }
+]

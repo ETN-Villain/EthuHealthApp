@@ -1,0 +1,23 @@
+[
+  {
+    "id": "club_1",
+    "schoolId": "school_1",
+    "name": "Junior Strength Club",
+    "ageGroup": "7-9",
+    "coachId": "coach_1"
+  },
+  {
+    "id": "club_2",
+    "schoolId": "school_2",
+    "name": "Confidence & Fitness Club",
+    "ageGroup": "10-12",
+    "coachId": "coach_2"
+  },
+  {
+    "id": "club_3",
+    "schoolId": "school_3",
+    "name": "Healthy Heroes Club",
+    "ageGroup": "8-11",
+    "coachId": "coach_3"
+  }
+]

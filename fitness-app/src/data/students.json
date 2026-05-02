@@ -1,0 +1,38 @@
+[
+  {
+    "id": "student_1",
+    "name": "Sam",
+    "clubId": "club_1",
+    "parentId": "parent_1",
+    "xp": 120,
+    "level": 2,
+    "avatar": {
+      "character": "lion",
+      "cosmetics": ["red-headband"]
+    }
+  },
+  {
+    "id": "student_2",
+    "name": "Mia",
+    "clubId": "club_1",
+    "parentId": "parent_1",
+    "xp": 80,
+    "level": 1,
+    "avatar": {
+      "character": "fox",
+      "cosmetics": []
+    }
+  },
+  {
+    "id": "student_3",
+    "name": "Leo",
+    "clubId": "club_2",
+    "parentId": "parent_2",
+    "xp": 200,
+    "level": 3,
+    "avatar": {
+      "character": "bear",
+      "cosmetics": ["gold-headband"]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "coach_1",
+    "name": "Maya Patel",
+    "email": "maya.patel@ethucoaching.com",
+    "clubs": ["club_1"]
+  },
+  {
+    "id": "coach_2",
+    "name": "Liam Carter",
+    "email": "liam.carter@ethucoaching.com",
+    "clubs": ["club_2"]
+  },
+  {
+    "id": "coach_3",
+    "name": "Aisha Khan",
+    "email": "aisha.khan@ethucoaching.com",
+    "clubs": ["club_3"]
+  }
+]

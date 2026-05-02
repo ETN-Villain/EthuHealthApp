@@ -1,0 +1,20 @@
+[
+  {
+    "id": "school_1",
+    "organisationId": "org_1",
+    "name": "Greenfield Primary School",
+    "location": "Birmingham"
+  },
+  {
+    "id": "school_2",
+    "organisationId": "org_1",
+    "name": "Oakridge Academy",
+    "location": "Coventry"
+  },
+  {
+    "id": "school_3",
+    "organisationId": "org_2",
+    "name": "Riverside Community School",
+    "location": "London"
+  }
+]

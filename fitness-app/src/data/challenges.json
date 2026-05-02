@@ -1,0 +1,11 @@
+[
+  {
+    "id": "challenge_1",
+    "title": "10 Squats",
+    "description": "Complete 10 squats with good form",
+    "xpReward": 20,
+    "weekStart": "2026-04-06",
+    "assignedTo": ["student_1"],
+    "category": "strength"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "parent_1",
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "phone": "07123 456789",
+    "children": ["student_1", "student_2"]
+  },
+  {
+    "id": "parent_2",
+    "name": "Daniel Smith",
+    "email": "daniel.smith@example.com",
+    "phone": "07987 654321",
+    "children": ["student_3"]
+  }
+]
